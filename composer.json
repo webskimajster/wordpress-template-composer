@@ -1,0 +1,16 @@
+{
+	"name": "webskimajster/wordpress-template-composer",
+	"type": "wordpress-theme",
+	"version": "1.0.0",
+	"description": "This is super minimal wordpress start template",
+	"license": "proprietary",
+	"require": {
+		"composer/installers": "^1.0"
+	},
+	"authors": [
+		{
+			"name": "Lukas Bereza [webskimajster]",
+			"email": "pan@webskimajster.pl"
+		}
+	]
+}
